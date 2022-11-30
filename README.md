@@ -5,4 +5,3 @@ The speed of these transactions gave your firm a competitive advantage early on.
 
 What You're Creating
 You’ll combine your new algorithmic trading skills with your existing skills in financial Python programming and machine learning to create an algorithmic trading bot that learns and adapts to new data and evolving markets.
-In a Jupyter notebook, you’ll do the following:
